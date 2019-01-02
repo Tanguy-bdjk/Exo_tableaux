@@ -1,0 +1,6 @@
+C:\Users\Moi\Desktop\Exo_tableaux\Tableaux\Exo4\bin\Debug\Exo4.exe.config
+C:\Users\Moi\Desktop\Exo_tableaux\Tableaux\Exo4\bin\Debug\Exo4.exe
+C:\Users\Moi\Desktop\Exo_tableaux\Tableaux\Exo4\bin\Debug\Exo4.pdb
+C:\Users\Moi\Desktop\Exo_tableaux\Tableaux\Exo4\obj\Debug\Exo4.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Exo_tableaux\Tableaux\Exo4\obj\Debug\Exo4.exe
+C:\Users\Moi\Desktop\Exo_tableaux\Tableaux\Exo4\obj\Debug\Exo4.pdb
